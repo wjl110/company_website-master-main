@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="8" cy="8" r="8"></circle>
+    </defs>
+    <g id="Design-V4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="定价页" transform="translate(-244.000000, -1158.000000)">
+            <g id="Group-13" transform="translate(244.000000, 1158.000000)">
+                <g id="Oval-8">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#EEEEEE" stroke-width="1" cx="8" cy="8" r="7.5"></circle>
+                </g>
+                <polygon id="Line" fill="#8D97A1" fill-rule="nonzero" points="7.30000305 3 8.80000305 3 8.80000305 9.5 7.30000305 9.5"></polygon>
+                <polygon id="Line-Copy" fill="#8D97A1" fill-rule="nonzero" points="7.30000305 11 8.80000305 11 8.80000305 13 7.30000305 13"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
